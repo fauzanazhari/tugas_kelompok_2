@@ -1,0 +1,14 @@
+.gambar1 {
+    text-align: center;
+    background-color: blue;
+    padding: 20px;
+    margin-right: 50px;
+    img:hover {
+        background-color: green;
+    }
+}
+.gambar2 {
+    background-color: orangered;
+    padding: 20px;
+    margin-left: 50px;
+}

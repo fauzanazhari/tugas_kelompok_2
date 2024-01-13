@@ -1,0 +1,32 @@
+ul li a{ 
+    color: aqua;
+}
+
+ol li a{
+     color: rgb(60, 9, 9);
+    }
+
+p{
+    background-color: rgb(63, 63, 196);
+}
+
+.p1 {
+    background-color: aqua;
+}
+
+body{ 
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(234, 199, 199);
+}
+
+
+
+ul li a:active{
+    color: rgb(227, 211, 192);}
+
+.gambar img:hover{
+    width: 1000px;
+}

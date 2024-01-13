@@ -1,0 +1,20 @@
+li:nth-child(2n+1) a{
+    background-color: aqua;
+}
+li:nth-child(2n) a{
+    background-color: rgb(93, 0, 255);
+}
+table tr th{
+    background-color: rgb(79, 6, 147);
+}
+.kotak{
+    background-color: aqua;
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border:10px solid purple;
+    margin: right 20px;
+}
+.kotak1 {
+    background-color: yellow;
+}

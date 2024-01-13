@@ -1,0 +1,12 @@
+.kotak{
+    background-color:yellow;
+    width:90%;
+    height:23px;
+    display: inline-block;
+    text-align: center;
+    font-style: italic;
+}
+body{
+    background-color:green;
+
+}
