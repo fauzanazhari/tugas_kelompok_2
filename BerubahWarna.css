@@ -4,7 +4,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-    margin: 230px;
+    margin: 325px;
     font-family: 'Times New Roman', Times, serif;
     color: rgb(255, 255, 255);
     text-align: center;
@@ -14,7 +14,7 @@
   .ashiyap .kotakpertama {
     background-color: rgb(0, 170, 255);
     border: 1px solid black;
-    padding: 100px;
+    padding: 60px;
     
   }
   
@@ -23,7 +23,7 @@
     border: 1px solid black;
     /* width: 200px;
     height: 200px; */
-    padding: 100px;
+    padding: 60px;
     margin-left: 280px;
   }
   

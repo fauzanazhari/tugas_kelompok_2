@@ -1,6 +1,6 @@
 .paragraf1 {
   margin: 10px;
-  margin-left: 150px;
+  margin-left: 195px;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
@@ -43,7 +43,7 @@
   height: 150px;
   background-color: blue;
   border: 1px solid black;
-  margin-left: 514px;
+  margin-left: 560px;
 }
 
 .kotakbiru:hover {
