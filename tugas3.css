@@ -1,0 +1,20 @@
+.kotak{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    display: inline-block;
+    margin-right: 100px;
+
+}
+
+.biru{
+    background-color: blue;
+}
+
+.merah{
+    background-color: red;
+}
+
+.kotak:hover{
+    background-color: green;
+}
