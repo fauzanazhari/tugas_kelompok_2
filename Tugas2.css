@@ -1,0 +1,58 @@
+.container {
+    margin: 5px;
+    margin-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
+
+.container2 {
+    margin: 5px;
+    margin-left: 205px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
+
+.container .red {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 1px solid black;
+    margin-right: 30px;
+  }
+  
+.container .yellow {
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border: 1px solid black;
+    margin-right: 30px;
+  }
+
+.container2 .yellow1 {
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border: 1px solid black;
+    margin-right: 95px;
+  }
+  
+.container .green {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    border: 1px solid black;
+    margin-right: 30px;
+  }
+  
+.blue {
+    margin: 30px;
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border: 1px solid black;
+    margin-left: 740px;
+  }
