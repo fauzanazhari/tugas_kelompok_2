@@ -1,0 +1,58 @@
+.mel1{
+    margin: 10px;
+    margin-left: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.mel2{
+    margin: 10px;
+    margin-left: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.mel2 .box {
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border: 1px solid black;
+    margin-right: 30px;
+}
+
+.mel1 .box1 {
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border: 1px solid black;
+    margin-right: 30px;
+}
+
+.mel1 .box2 {
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    border: 1px solid black;
+    margin-right: 30px;
+}
+
+.mel1 .box3 {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 1px solid black;
+    margin-right: 30px;
+}
+
+ .box4 {
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    border: 1px solid black;
+    margin-left: 620px;
+    
+}
