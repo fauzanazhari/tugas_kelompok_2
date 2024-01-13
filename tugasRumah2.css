@@ -1,0 +1,49 @@
+.kotakKotak {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.kotak {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.kuning {
+    background-color: yellow;
+}
+ .hijau {
+    background-color: green;
+ }
+
+ .merah {
+    background-color: red;
+ }
+
+ .biru {
+    background-color: blue;
+ }
+
+ .kotak2 {
+    width: 35px;
+    height: 35px;
+    border: 1px solid black;
+    margin-right: 100px;
+    display: inline-block;
+ }
+
+ .biru2 {
+    background-color: rgb(94, 88, 255);
+ }
+
+ .merah2 {
+    background-color: red;
+ }
+
+ .kotak2:hover {
+    background-color: green;
+ }
