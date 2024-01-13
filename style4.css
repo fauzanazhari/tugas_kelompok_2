@@ -1,0 +1,155 @@
+.kontainer{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    
+}
+
+.kontainer div{
+
+    color: rgb(0, 0, 0);
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+
+}
+
+.kotak1{
+    background-color: yellow;
+    border-top: 3px solid;
+    border-bottom: 3px solid;
+    border-right: 2px solid;
+    border-left: 2px solid;
+    
+
+}
+
+.kotak2{
+    background-color: green;
+    border-top: 3px solid;
+    border-right: 3px solid;
+}
+
+.kotak3{
+    background-color: red;
+    border: 3px solid;
+}
+
+.kotak4{
+    background-color: green;
+    border-left: 3px solid;
+    border-right: 3px solid;
+}
+
+.kotak5{
+    background-color: yellow;
+    border: 3px solid;    
+}
+
+/*  kedua */
+.kontainer2{
+
+}
+
+.kotaktengah{
+    color: rgb(0, 0, 0);
+    background-color: blue;
+    border: 3px solid black;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+
+/*  ketiga */
+.kontainer3{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+
+.box1 , .box2, .box3, .box4{
+    background-color: yellow;
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+
+.box1{
+    border-left: 2px solid;
+    border-right: 2px solid;
+}
+
+.box2{
+
+}
+
+.box3{
+    border-left: 2px solid;
+    border-right: 2px solid;
+}
+
+.box4   {
+    border-left: 3px solid;
+    border-right: 3px solid;
+}
+
+/*  keempat */
+.kontainer4{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-hover1{
+    background-color: cornflowerblue;
+    color: rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+.box-hover1:hover{
+    background-color: mediumseagreen;
+    color: rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+.box-hover2{
+    background-color: rgb(241, 77, 45);
+    color: rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+.box-hover2:hover{
+    background-color: mediumseagreen;
+    color: rgb(0, 0, 0);
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+
+.box-hover1 p{
+    color: aliceblue;
+    text-align: center;
+    line-height: 70px;
+    cursor: pointer;
+    
+    
+}
+
+.box-hover2 p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    line-height: 70px;
+    cursor: pointer;
+
+}
+
