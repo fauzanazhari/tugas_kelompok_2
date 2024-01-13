@@ -1,0 +1,59 @@
+.paragraf1 {
+  margin: 10px;
+  margin-left: 150px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.paragraf1 .kotakmerah {
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  border: 1px solid black;
+  margin-right: 30px;
+}
+
+.paragraf1 .kotakkuning {
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  border: 1px solid black;
+  margin-right: 30px;
+}
+.paragraf1 .kotakkuning1 {
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+  border: 1px solid black;
+  margin-right: 79px;
+}
+
+.paragraf1 .kotakhijau {
+  width: 150px;
+  height: 150px;
+  background-color: green;
+  border: 1px solid black;
+  margin-right: 30px;
+}
+
+.kotakbiru {
+  margin: 40px;
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+  border: 1px solid black;
+  margin-left: 514px;
+}
+
+.kotakbiru:hover {
+  background-color: rgb(5, 226, 255);
+  cursor: pointer;
+}
+
+.moving-box {
+  display: flex;
+  animation: moveBox 10s linear infinite;
+}
+
+
